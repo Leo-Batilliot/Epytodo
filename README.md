@@ -3,7 +3,7 @@
 
 ## 📌 Description du projet
 
-**EpyTodo** est une API REST développée avec **Node.js** et **Express**, connectée à une base de données **MySQL**.  
+**EpyTodo** est une API REST développée avec **Node.js**, connectée à une base de données **MySQL**.  
 Elle permet de gérer une liste de tâches (todos) assignées à des utilisateurs.  
 L’objectif est de fournir un backend robuste pour la gestion d’un système CRUD avec authentification via JWT.
 
